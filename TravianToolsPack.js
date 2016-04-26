@@ -8,7 +8,7 @@
  	6 : autoReload
  	** x : Pillages **
 */
-
+test
 erztzerte
 
 initialiseScript();
